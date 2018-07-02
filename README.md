@@ -1,9 +1,12 @@
 # bag of words for image retrieval
 
+Quoted from https://github.com/willard-yuan/image-retrieval/tree/master/bag-of-words-python-dev-version</br></br>
+This repository was created for school work.</br>
+
 ![](http://yongyuan.name/images/posts/2015-06-16/ukbench00000.jpg)
 
 Python Implementation of Bag of Words for Image Retrieval using OpenCV and
-sklearn | [Post](http://yongyuan.name/blog/practical-BoW-for-image-retrieval-with-python.html)
+sklearn
 
 ## Training the codebook and quantization
 ```
